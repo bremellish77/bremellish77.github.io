@@ -1,0 +1,49 @@
+
+body {
+ color: #000000;
+ margin: 0%;
+ font-family: Helvetica, Arial;
+ font-size: 1em;
+}
+
+#nav li {
+ margin-right: 15px;
+ font-size: 0.8em;
+ text-decoration: none;
+ text-align: right;
+ display: inline;
+ }
+
+#page-title {
+ padding: 20px 0 40px 0;
+ font-size: 4em;
+ text-decoration: bold;
+}
+
+.content {
+ margin-left: 5%;
+ margin-top: 40px;
+ padding-top: 50px;
+ padding-bottom: 50px;
+ font-size: 1.2em;
+}
+
+#opener {
+padding-top: 20px;
+}
+
+.main-header {
+ background-color: steelblue;
+ height: 400px;
+ border-bottom: 2px solid #000000;
+ text-align: center;
+}
+
+.header-photo:hover {
+ transform: scale(1.2)
+}
+
+.footer {
+ border-top: 2px solid #000000;
+ margin: 5%;
+}
